@@ -25,3 +25,11 @@
     - Data Analysis:Python for Data Analysis
     - Math Basic:
     - Algorithms:
+
+# Projects
+
+## Ansible + Django + redis + Mongo
+
+## ELK
+
+## Flume + Kafka + Spark
