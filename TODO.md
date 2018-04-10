@@ -2,7 +2,7 @@
 
 ## Python
     
-    - Pythonic: effective python/fluent python/mastering python/python cookbook
+    - Pythonic: effective python/fluent python/mastering python/python cookbook/Distributed Computing with Python
     - Django: official docs
     - Ansible: python escaplution/setup-->cmdb
 
